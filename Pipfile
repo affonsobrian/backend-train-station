@@ -15,6 +15,7 @@ requests = "*"
 python-decouple = "*"
 gunicorn = "*"
 uvicorn = "*"
+uvloop = "*"
 
 [requires]
 python_version = "3.8"
