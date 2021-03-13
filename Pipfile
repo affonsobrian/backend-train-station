@@ -13,6 +13,8 @@ fastapi = "*"
 hypercorn = "*"
 requests = "*"
 python-decouple = "*"
+gunicorn = "*"
+uvicorn = "*"
 
 [requires]
 python_version = "3.8"
